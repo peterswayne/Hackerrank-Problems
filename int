@@ -1,4 +1,6 @@
 if __name__ == '__main__':
+    //gets user input
     n = int(input())
+    //for i in the range of 1 to the number +1 of the user and prints i beside each time
     for i in range (1,n+1):
         print(i, end='')
